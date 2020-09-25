@@ -1,0 +1,8 @@
+<h2>Selamat Datang Administrator</h2>
+<pre> 
+	<?php
+	//print_r untuk menampilkan array 
+print_r($_SESSION); 
+	?>
+	
+</pre>
